@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A messe of pottage well seasoned and crummed with bread of life, and easie to be digested. Against the contumelious slanderers of the divine-service, terming it porrage. Whereunto is added an Answer to lame Giles Calfines Messe of Pottage, which he terms in his halting speech to be well crummed and seasoned, &amp;c. In which small tract you shall finde such reasons given against it, as are unanswerable by any man whatsoever.</title>
+         </titleStmt>
+         <extent>Approx. 24KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50740</idno><idno type="EEBO-CITATION">99829465</idno>
+  <idno type="VID">33905</idno>
+  <idno type="EEBO-PROQUEST">2248503756</idno>
+  
+            <idno type="STC">Wing M1897</idno>
+            <idno type="STC">ESTC R217822</idno>
+            <idno type="PROQUEST">99829465</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829465e"/>
+            <note>(EEBO-TCP ; phase 2, no. A50740)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33905)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1919:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A messe of pottage well seasoned and crummed with bread of life, and easie to be digested. Against the contumelious slanderers of the divine-service, terming it porrage. Whereunto is added an Answer to lame Giles Calfines Messe of Pottage, which he terms in his halting speech to be well crummed and seasoned, &amp;c. In which small tract you shall finde such reasons given against it, as are unanswerable by any man whatsoever.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1643?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint conjectured by Wing.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Caption title.</note>
+                  <note>Caption title on A3 reads: An answer to lame Giles Calfines Messe of Pottage.</note>
+                  <note>Imperfect; text stained, with print show-through affecting legibility.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Calfine, Giles. --  Messe of pottage, very well seasoned and crumbd --  Controversial literature --  Early works to 1800.</term>
+               <term type="corporate_name">Church of England --  Customs and practices --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:33905:1"/>
+            <head>A Messe of Pottage well seasoned and crummed, With bread of life, and easie to be digested. Against the contumelious Slanderers of Divine-Service, terming it Porrage.</head>
+            <head>wherunto is added an Answer to lame <hi>Giles Calfines</hi> Messe of Pottage, which he terms in his halting speech to be well crummed and seasoned, <hi>&amp;c.</hi>
+            </head>
+            <head type="sub">In which small Tract you shall finde such reasons given against it, as are unanswerable by any man whatsoever.</head>
+            <div type="discourse">
+               <p>
+                  <seg rend="decorInit">I</seg> Need not make an Apologie to the ensuing Discourse, it is well knowne to all honest and discreet Protestants, how basely our Service-Book is termed (by the name of Porrage, a name very frequent in uncivill mouths) and trampled un<g ref="char:EOLhyphen"/>der foot by unreasonable men, that have neither <hi>Faith</hi> nor <hi>Charitie;</hi> and although they bee now well fed to the full, and may goe from one Church to another to please their pallat, and taste of what pleaseth them best yet there may a time come (which I pray God there doe not) that they may be glad of the crums which fall from their Masters Table: but let them alone a while, the thing that I say is this, That our <hi>Common Prayer</hi> is so abhorred, depraved, detested, and despised by many, as if it were the most vilest thing in the world; nay, if the Devill himselfe had composed it, it could not be more vilified than it is: It is a shame to speak, and I blush to heare it, that men that think themselves such rare Di<g ref="char:EOLhyphen"/>vines, that people that think they have such knowledge and zeale, to terme such a good thing, and such holy matter as there is, to be <hi>Porrage:</hi> oh fie! where is your judgement? where is your moderation? what, quite lost? is this your zeale turned to hate? you are surely of an hot and fierie spirit, contrary to the name of warme and wholesome <hi>Porrage;</hi> if you knew but the right vertue of <hi>Pottage,</hi> you would not have termed the <hi>Common Prayer</hi> so, but your owne Prayers: For doe yee not know, That they were godly men that made them, they were not made <hi>ex tempore,</hi> but with deliberation, not hand over head, as many doe in these dayes, but seriously considered of, and premeditated: and doe you not know, That these good men laid down
+<pb facs="tcp:33905:2"/> their lives for this and the Truth? and doe yee not know, That they were established and maintained by Acts of Parliament? in the raigne of three Kings and one Queene, and is it now made a laughing stock; surely you should have more manners than so.</p>
+               <p>Indeed, it is Parliament time, and men speake and do what they list now, and so do yee: for yee speak evill of Kings, of authoritie and dignitie, and despise government, contrary to the Apostles rule. Oh the great malice that is one against another! against Peere and Peasant, against Priest and Peo<g ref="char:EOLhyphen"/>ple; oh envie, thou limb of the Devill! how rulest thou in the hearts of people, especially against Bishops; oh how odious is that name to many! but I counsell you to speake moderately, and judge charitably; if they bee stained, let them be pained: they have faults as well as wee, yet they are Gods Embassadours, his Stewards, his Angels, Disposers of Gods secrets, Disbursers of his treasuries, then revile them not, for it is written, <hi>Thou shalt not speake evill of the Ruler of the people.</hi>
+               </p>
+               <p>But as for that which you call <hi>Porrage,</hi> who hatcht the name I know not, neither is it worth the enquiring after, nor the worse for that name, nor none the worse that useth it; for I hold <hi>Porrage</hi> good food, it is better to a sick man than meat; for a sick man will sooner eat <hi>Pottage</hi> than meat: <hi>Pot<g ref="char:EOLhyphen"/>tage</hi> will digest with him, when meat will not: <hi>Pottage</hi> will nourish the bloud, fils the veines, runs into every part of man, and make him war<g ref="char:EOLhyphen"/>mer; so will these prayers do, and work more effectually, set the body and soule in a heat, warme our devotion, works fervencie in us, lifts up our soule to God. And many things more it worketh in us; if we had but appetite to them, and it is well stored with herbs out of Gods garden, here a little, and there a little, as appears in the beginning of the <hi>Common Prayer,</hi> and so for<g ref="char:EOLhyphen"/>ward to the end of it. For there is the herbs of Gods owne planting (in our <hi>Pottage,</hi> as you call it) the ten Commandements, daintie herbs to season any <hi>Pottage</hi> in the world; then there is our Saviours forme of Prayer, and that is a most sweet pot-herb, cannot be denied; then there is also <hi>Davids</hi> herb, his Prayers and Psalmes, help to make our Pottage rellish well; then S. <hi>Pauls</hi> precepts; also the Creed, a very faithfull pot-herb; and the Song of the blessed Virgin, a good pot-herb; so that this Porrage hath abundance of choyce herbs to season it, and those that will eat no such Porrage as these, so well drest, it is pitie but they should fast, and as the proverb is, Those that will eat no porrage must eat no meat. Though they be (as some terme them) Cock-crowed Pottag, yet they are as sweet, as good, as daintie, and as fresh as they were at first: The Sun hath not made them sowre with his heat, nei<g ref="char:EOLhyphen"/>ther hath the cold winter taken away their vigour and strength, but they are as wholesome and as well rellished as at the first, and unlesse you be sick for novelties, you cannot eat better than these. Compare them with the Scrip<g ref="char:EOLhyphen"/>tures, and see if they be not as well seasoned and crummed: if you find any
+<pb facs="tcp:33905:2"/> thing in them, that is either too salt, or too fresh; too bitter, or too sower, too little, or too great; that herb shall be taken out, and a better put in if it can be got, or none at all: And as in Kitchin <hi>porrage</hi> there is many good herbes in it: so there is likewise in this <hi>Church Porrage,</hi> (as you call it.)</p>
+               <p>For first in Kitching porrage, is good water to make them so; on the contrary, in the other porrage is the water of life. 2. There is salt to season them: In the o<g ref="char:EOLhyphen"/>ther is a prayer for grace to season our hearts. 3. There is Oatmeale to nourish the body: in the other, is the words of him that is the bread of life, which nouri<g ref="char:EOLhyphen"/>sheth our soules and bodies to eternall life. 4. There is Thyme in them to re<g ref="char:EOLhyphen"/>lish them, and it is very wholsome: In the other is a wholsome exhortation, not to harden our hearts whilest it is called today: this relisheth well. 5: There is a small Onion to give a taste: In the other is a good herbe called <hi>Lord have mer<g ref="char:EOLhyphen"/>cie upon us,</hi> which gives a sweet taste to the soule. 6. There is Rosemary to comfort and refresh the body: In the other is comfortable words of Christ: <hi>Come unto me all ye that are heavy laden, and I will refresh your soules.</hi> 7. There is Marie-gold leaves, to revive the spirits: And so in the other, there is the <hi>soules magnifying the Lord, and the spirits rejoycing in God our Saviour.</hi> These and many wholsome herbes are contained in it, and all these boyling in the heart of man, will make as good porrage as the world can afford, especially if you use the herbes following for digestion, <hi>viz.</hi> The herbe repentance, the herbe grace, the herbe faith, the herbe hope, the herbe love, the herbe good workes, the herbe piety, the herbe zeale, the herbe fervency, the herbe ardency, the herbe vigilancy, and the herbe constancy; with many more of this nature, which are most excel<g ref="char:EOLhyphen"/>lent for digestion. And those that despise this porrage of ours have no appetite to the Lords Prayer the ten Commandements, the Psalmes of <hi>David,</hi> and other good matter that is in them, this being contained in the Common Prayer, must be despised also: but me thinks I heare some say, they despise not those. What is it then I pray that you dislike in this porrage? O sir I know your meaning by your gaping, this sticks in your teeth, and spoyles your stomack. 1 There is, (you say) too much of the Surplice, which smelleth of the garment of the whore. 2. There is too much crossing in <hi>Baptisme,</hi> and that smells (you say) of the marke of the Beast, (but of what beast I wot not.) 3. There is too much bow<g ref="char:EOLhyphen"/>ing and that tastes of Idolatry. 4. There is too much ring in <hi>Matrimony,</hi> and this smells of superstition. 5. Too much kneeling at the Sacrament this tasts of <hi>Antichrist.</hi> 6. Too much standing up this smells of vaine glory. 7. Too much Glory be to the Father, and this is superstitious. 8. There is too much Lord have mercy on us, and this is needlesse. 9. Too much Lords Prayer, and this is odious in every ones mouth. 10. There bee too many prayers, and they savour not of the spirit. And what of all these, doe they savour so strong in your nose, that you dare not peep into the Church? Then I may say, you savour of an ill smell, and are very absurd, and you have got a great cold in your feet, and it is fumed up into your head, and so stuffes your braine, that you cannot smell any
+<pb facs="tcp:33905:3"/> thing at all, and carrion is as good to your scent, as good &amp; wholsom porrage is. That which you hold to be the worst, (as namely crossing, bowing, surplice, kneeling, <hi>&amp;c.</hi> is not worth the speaking and he is a mad man that believes there is salva<g ref="char:EOLhyphen"/>tion in them, and so of necessity we must use them: no, they may be left at any time, when authority shall command: they are ordered but for decency sake, and as neare to the Primitive times as could be gathered; and if we have no order in our <hi>Churches,</hi> we shall be a reproach to all people. If wee should bee of that minde as the fashion is, or many people are, we then must have a new forme of prayer every yeare, so that you would have something, but know not what: so that you are not content full nor fasting, neither with porrage, nor without.</p>
+               <p>If Pottage had not beene good food, <hi>Iacob</hi> would have made none, neither would the Angel of the Lord have carryed <hi>Abbacuc</hi> by the haire of the head, to <hi>Daniel</hi> in the Lyons Den, that hee might eate the Pottage which <hi>Abbacuc</hi> had prepared for the Reapers. Ile warrant you <hi>Daniel</hi> was glad of them, he went not behinde the doore to eate them, as many in our dayes to stand at the <hi>Church</hi> doore till the Service is done, and then come and eate the bread out of others mouthes: but believe it theres no death in this pottage, in this <hi>Common-prayer,</hi> though many have preached, and said there is, and that it is meere popery. If this be the opinion of <hi>Round-heads,</hi> then it is no marvaile we are so subject to change: for marke it alwayes, that that which is round is soonest moved, and ne<g ref="char:EOLhyphen"/>ver constant, neither in manner, fashion, or place: their wit is like quick-silver in a foot-ball, alwayes running, so nothing can stay their humour. Therefore I counsell you to doe as <hi>Esau Iacobs</hi> brother did, who sold his Birth-right for a Messe of pottage, so would I have you to doe, to sell your selfe-opinions for this <hi>Pottage;</hi> I do not meane that you should your chiefest Birth-right, <hi>The Word of God,</hi> that unto which you are borne, and must dye for; not to sell this for <hi>Ce<g ref="char:EOLhyphen"/>remonie,</hi> not to sell the substance for a shadow, but despise the bare conceite of it: and I dare warrant you that the using of this which you call <hi>Porrage,</hi> will never prove your bane, neither shal you commit any sinne in the least degree, provided, that you use them to no other end, then they were ordered unto, and that is as St. <hi>Paul</hi> speaks concerning the World, <hi>to use it, as not abusing it;</hi> for the fashion of the World passeth away, to such end we may use them and not abuse them know<g ref="char:EOLhyphen"/>ing that it is in the power of the King and Parliament, to alter and change them when they please, if in case they be corrupted.</p>
+               <lg>
+                  <l>You that unto the Flesh are so inclin'd,</l>
+                  <l>And love no meat but Porrage (that's your mind)</l>
+                  <l>Harke in thine eare, what I say, look well to it,</l>
+                  <l>For too much Flesh, perchance, will make thee rue it.</l>
+                  <l>See not thy mind upon the flesh too much,</l>
+                  <l>Least that it prove too hot for thee to touch;</l>
+                  <l>This kinde of dyet meat and Porrage filleth,</l>
+                  <l>But too much Flesh alone the body spilleth.</l>
+               </lg>
+            </div>
+            <div type="answer">
+               <pb facs="tcp:33905:3"/>
+               <head>AN Answer to lame Giles Cal<g ref="char:EOLhyphen"/>fines Messe of Pottage, which hee tearmes in his halting speech to bee well crummed and seasoned, &amp;c.</head>
+               <p>WHereas it seems to some lame in reason and blind in judgement, a great indignity to call the Service-Booke Porrage, by a Metaphore and simili<g ref="char:EOLhyphen"/>tude which will very well hold, considering the fat Cookes that first composed it out of the Popes Kitchin, and have put thereinto weeds of Idolatry, thickned with many tautologies and repetitions; yet because <hi>Similitudo currit quatnor pedibus,</hi> Similitudes are more cleare to illustrate than strong, to prove, it shall be here demonstrated that the Service-Booke is corrupted and unlawfull, and first from the name, then from the nature: for that which is called the Liturgie is the same with the Masse, and so promiscuously called by the Papists Jesuites; and is onely but an English Masse, as theirs is in Latine. Now it is knowne, that <gap reason="foreign" resp="#oxf" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, names are the very images of things, so that this Li<g ref="char:EOLhyphen"/>turgie is either a Lethargie of worship, or a Masse of Idolatry: it is therefore the Popes porrage, and his Idoll of Ignorance, and we are not to offer to an Idoll: <hi>Ergo,</hi> We are not to offer it to God as a worship.</p>
+               <p>But that you may take a view of this <hi>Crambe recocta</hi> this twick-s<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d pottage, marke the ingredients thereof, and whereof it is made, and you shall finde there<g ref="char:EOLhyphen"/>in no purity, but all papistrie; the common prayers taken out of the popish Bre<g ref="char:EOLhyphen"/>viarie, out of the Papists Rituall is deduced the Administration of the Sacra<g ref="char:EOLhyphen"/>ments, Buriall, Matrimony, and Visitation of the sicke, and then the Consecra<g ref="char:EOLhyphen"/>tion
+<pb facs="tcp:33905:4"/> of the Lords Supper, Collects, Epistles and Gospels are taken out of the Masse-booke; and besides, in all the essentiall and integrall parts thereof it is omoregenous with the Masse▪ and therefore being taken and translated word for word out of the popish Masse, it is not a booke of Divine Service and wor<g ref="char:EOLhyphen"/>ship, but an abhomination to God, and therefore to be abolished, which may be proved out of these places of Scripture, <hi>Deut. 7. 25. 2 King. 23. 13. Ezra</hi> 9. 1. and <hi>Esa.</hi> 44. 19. Thus you see it is not taken out of the garden of godlinesse, nor composed of pure wholsome herbs as some ignorant Cooks would pretend, but the old profane pot-herbs of papistrie. Now you shall next discerne the matter of this porrage, which is false and erroneous in the corrupt Translations of the Word; as first, <hi>Psal.</hi> 105. 28. the booke hath it thus, <hi>They were not obedi<g ref="char:EOLhyphen"/>ent to his word;</hi> but the Scripture faith, <hi>They were not disobedient, to his word.</hi> Another place is, <hi>Luke 10 1. After these things the Lord appointed other se<g ref="char:EOLhyphen"/>venty also, and sent them two and two before them:</hi> but the Service-booke reads <hi>seventy two.</hi> Besides, there are many omissions, as of <hi>Hallelujah</hi> in the 72. <hi>Psal.</hi> and for, <hi>Praise the Lord,</hi> seventeene times omitted, the Booke putteth in, <hi>Gloria Patri▪</hi> drowning also 160. Chapters, and in stead thereof have placed the <hi>Apocrypha.</hi> Besides, in reading the Scriptures they take but scraps and shreds▪ And thirdly, much superstitious action in reading the Epistles and Gos<g ref="char:EOLhyphen"/>pels.</p>
+               <p>Having thus proceeded against the Service-booke in these accusations, of false Translations additions omissions, and mis-nominations, there are other faults in this booke committed by mis-application of Scriptures, by coyning things, and by popish expositions, and by pressing upon Ministers and people an heap of popish Ceremonies and Tenents, as the prayer at the buriall of the dead, Crosses and Surplices, and bowing and cringing to the Altar, and Christning Font, all which being mans invention, must needs be Idolatrous: for, <hi>Quicquid praeter manda<g ref="char:EOLhyphen"/>tum est Idolum,</hi> Whatsoever is placed in Gods worship without the Comman<g ref="char:EOLhyphen"/>dement of God, is an Idoll: besides, there are foppish foolish things in the book, as tautologies and battologies. vaine repetitions of words, and that mutuall salu<g ref="char:EOLhyphen"/>tation between Priest and people, in these words, <hi>The Lord bee with you and with your spirit▪</hi> and W<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>men at the comming into the Church making a curte<g ref="char:EOLhyphen"/>sie to the Priest: besides all this there is a Letany, which is not a stump or limb of <hi>Dagon,</hi> but the head of the Masse-booke, in which there is nothing but vaine repetition, and a multitude of words, as <hi>Lord deliver us, Heare us wee beseech thee,</hi> and ridiculous Invocations like Magick spels, and no better than conjuring. And therefore if the matter of the Service-Booke be partly false, foolish, ridicu<g ref="char:EOLhyphen"/>lous, and frivolous, therefore the worship therein contained should notbe presen<g ref="char:EOLhyphen"/>ted unto God.</p>
+               <pb facs="tcp:33905:4"/>
+               <p>Now as for forme, which is the essence of a thing, it is nothing but un<g ref="char:EOLhyphen"/>formed heap of disorder, and will-worship, the Minister using a strange and ridiculous change of voyce, posture and place; and then many short Col<g ref="char:EOLhyphen"/>lects, of <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ort shrods patched up together, to make a wearisome service upon the long last, and much tossing or driving the Service between the Priest and the people, praying with the Priest or repeating his prayer, and adding som responses and answers.</p>
+               <p>Thus the name, originall, matter and manner of the Service booke, hath been shewed to be naught, and corrupt, therefore not to be suffered, but abo<g ref="char:EOLhyphen"/>lished, which hath been proved by nominal and real Arguments, and now it shall bee also clearely evinced from the proper and necessary bad effects thereof, and the evill cau<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> is worse then the effect. <hi>Nam propter quod ali<g ref="char:EOLhyphen"/>quid tale, &amp;c.</hi> is a position in Logick and Philosophy: and these evill effects are foure, first it maketh a number of Sir <hi>Iohns,</hi> meere Surplice and Serv<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce-book men: also many non-residents and plurallists, who take choyse of Cu<g ref="char:EOLhyphen"/>rates to serve their cures at a cheape rate; besides it was a great affliction to Conformists, and non-Conformists, so that the Service-book was in some sort like the <hi>Metheg Ama<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h,</hi> the bridle of the belly tract, or strength of the Philistims; so this Service-booke was the strength of the Philistim prelacy; and a bridle with a cur<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing bit to stop, to winde and turne them at their pleasure; and some about this Service-booke were committed to the Egyp<g ref="char:EOLhyphen"/>tian bondage.</p>
+               <p>In the second place, this Service-book brooked up all preaching, Doctor <hi>Houson</hi> affirming that preaching was no part of Divine worship; and thus Christs Word gave place to a fardell of mens devices: besides the Service-booke entrenches upon <gap reason="foreign" resp="#oxf" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the people, Religion, and Law, and especially upon the Law by imprisoning and exercising jurisdiction in <hi>rebus non spiritualibus,</hi> in matters that were not spirituall, and then good people suffered in this furnace, in spoyling their goods, losse of liberty, and forsa<g ref="char:EOLhyphen"/>king their owne Countrey, <hi>Gen<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> patriae plangente,</hi> as <hi>Lipsius</hi> saith, the Geni<g ref="char:EOLhyphen"/>us of their Countrey lamenting after them, or else laid in prison til their bones rotted, as Doctor <hi>Abbot</hi> said M. <hi>Baits</hi> should be, who was afterwards starved in the Gatehouse. And thus the furnace (for not adoring the Service booke, as <hi>Nebuchadnezzar</hi> for not adoring his Idoll) was ordinarily heated, and devoured many that were cast into it, and all opposition in that kinde was punished with cutting, branding, slitting, whipping, pilloring, and fi<g ref="char:EOLhyphen"/>ning. Then for bad people, if ignorance be the mother of destruction, then much guilt lyeth in many plac<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of the Service-booke, having in some pa<g ref="char:EOLhyphen"/>rishes not had a Sermon in many yeares: and in other places Sermons that
+<pb facs="tcp:33905:5"/> were only. Husks, and no bread to feed upon, and all this proceeding from divers places of the Liturgie and Service-booke, wherewith the Common people and Priests of Ignorance were enforced to be content.</p>
+               <p>The l<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st evill effect of this Service-booke is directly and immediately a<g ref="char:EOLhyphen"/>gainst God. <hi>Calvin</hi> in his Letter to <hi>Frankeford</hi> calleth it, the leavings of the popish dregs: and the <hi>Frankford</hi> book calleth them burthens, yoaks, and clogs to Gods people and his Service: this derogation from Gods Service is their festivall dayes to Saints, and their kneeling at the Communion, for non: but God can appoint an holy-day, and for kneeling at the Sacrament it is a popish, moderne posture of but 400. yeers standing, and is meer wil-worship; for denying of which some have extreamely suffered: and in re<g ref="char:EOLhyphen"/>gard this kneeling is a kneeling in respect and adoration by or before a creature, it is Idolatry, and likewise there be many strong arguments urged against the Crosse, to prove it the marke of the Beast. Lastly, the intercessi<g ref="char:EOLhyphen"/>on of the Saints must be according to the will of God, otherwise he heareth not: but the prayers of the Service Booke are not such, but delinquent and peccant, both in name, originall, matter, form, effects, properly proceeding therefrom, therefore they have no acceptance before God, they shall not by him be heard: and therefore are profanely and superstitiously u<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed, and being grosse papistry, may be called the Popes pottage, made of divers weeds in<g ref="char:EOLhyphen"/>stend of Herbs, preposterously served up by the Priest, unwholsome for the soule, and displeasing to God, as being mans Cookery, full of absurdity, con<g ref="char:EOLhyphen"/>trary to Gods glory.</p>
+               <p>Thus lame <hi>Gyles Calfine,</hi> I hope I have satisfied you in your halting <hi>Laodi<g ref="char:EOLhyphen"/>cean</hi> opinion: for whereas you say it is the true bread of life, I do think you are mistaken, and that you were an hungry and wanted your breakfast at that time: and whereas you say they are well seasoned, you are mistaken also, un<g ref="char:EOLhyphen"/>lesse you hed put some flesh into your pot, or at least wise the foure first let<g ref="char:EOLhyphen"/>ters of your name; which if you had done, they would have been somewhat better crummed and seasoned. So in fine, good <hi>Gyles Calfine,</hi> hopping to an end, He leave you in the middest of your pottage; and (such Stuffe); and for my part I will put off my doublet, and will swim to the meate, which is fitting for men, and not for such children as you are who are ignorantly brought up, and still are as innocent in matters of Exposition, as alyour ge<g ref="char:EOLhyphen"/>neration was in matter of state-affaires. And so much for this time.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
